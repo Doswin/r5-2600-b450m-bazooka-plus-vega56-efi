@@ -1,4 +1,4 @@
-# r5-2600-b450m-bazooka-plus-vega56
+# r5-2600-b450m-bazooka-plus-vega56-efi
 r5 2600 4.03GHz  
 msi b450m bazooka plus  
 2*8g 2933MHz  
